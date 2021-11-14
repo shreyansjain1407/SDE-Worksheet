@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-class Scratch {
+class rotateImage {
     public void rotate(int[][] matrix) {
         int l = 0, r = matrix.length;
         int n = matrix.length-1;
