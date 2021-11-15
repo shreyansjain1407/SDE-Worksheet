@@ -21,8 +21,8 @@
 ## Day 3
     Search in a 2d Matrix
 Pow(X,n)
-Majority Element (>N/2 times)  
-Majority Element (>N/3 times)
+    Majority Element (>N/2 times)
+    Majority Element (>N/3 times)
 Grid Unique Paths
 Reverse Pairs (Leetcode)
 
