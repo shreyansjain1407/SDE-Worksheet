@@ -23,6 +23,7 @@
 Pow(X,n)
     Majority Element (>N/2 times)
     Majority Element (>N/3 times)
-Grid Unique Paths
+    Grid Unique Paths
+    Minimum Difference Between Highest and Lowest of K Scores (Extra Out of SDE Sheet)
 Reverse Pairs (Leetcode)
 
