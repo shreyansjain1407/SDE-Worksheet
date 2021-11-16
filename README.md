@@ -36,7 +36,7 @@ Count number of subarrays with given Xor K
     Longest Substring without repeat
     Reverse a LinkedList
     Find middle of LinkedList
-Merge two sorted Linked List (use merge Sort)
-Remove N-th node from back of LinkedList
+    Merge two sorted Linked List (use merge Sort)
+    Remove N-th node from back of LinkedList
 Add two numbers as LinkedList
 Delete a given Node when a node is given O(1) Soln
