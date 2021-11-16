@@ -25,18 +25,18 @@
     Majority Element (>N/3 times)
     Grid Unique Paths
     Minimum Difference Between Highest and Lowest of K Scores (Extra Out of SDE Sheet)
-Reverse Pairs (Leetcode)
+        Reverse Pairs (Leetcode)
     2-Sum-Problem {Day 4}
-4-sum-Problem
+        4-sum-Problem
     Longest Consecutive Sequence
 
 ## Day 4
     Largest Subarray with 0 sum 
-Count number of subarrays with given Xor K
+        Count number of subarrays with given Xor K
     Longest Substring without repeat
     Reverse a LinkedList
     Find middle of LinkedList
     Merge two sorted Linked List (use merge Sort)
     Remove N-th node from back of LinkedList
-Add two numbers as LinkedList
-Delete a given Node when a node is given O(1) Soln
+        Add two numbers as LinkedList
+        Delete a given Node when a node is given O(1) Soln
