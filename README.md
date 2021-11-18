@@ -49,3 +49,11 @@
     Find the starting point of the Loop of LinkedList
     Flattening of a LinkedList
     Rotate a LinkedList
+
+## Day 6
+    Clone a Linked List with random and next pointer
+        3 sum
+        Trapping rainwater
+        Remove Duplicate from Sorted array
+        Max consecutive ones
+
