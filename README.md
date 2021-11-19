@@ -61,7 +61,7 @@
 ## Day 7
     Minimum number of platforms required for a railway
     Job sequencing Problem
-        Fractional Knapsack Problem
+    Fractional Knapsack Problem
         Greedy algorithm to find minimum number of coins
         Activity Selection (same as N meeting in one room)
 
