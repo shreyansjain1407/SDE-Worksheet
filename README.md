@@ -1,7 +1,6 @@
 # SDE-Worksheet
  Implementations of various algorithms and other questions
 
-
 ## Day 1
     Set Matrix Zeros
     Pascal Triangle
@@ -62,6 +61,11 @@
     Minimum number of platforms required for a railway
     Job sequencing Problem
     Fractional Knapsack Problem
-        Greedy algorithm to find minimum number of coins
-        Activity Selection (same as N meeting in one room)
-
+    Greedy algorithm to find minimum number of coins
+    Activity Selection (same as N meeting in one room)
+        Subset Sums
+        Subset-II 
+        Combination sum-1
+        Combination sum-2 
+        Palindrome Partitioning
+        K-th permutation Sequence
