@@ -63,6 +63,8 @@
     Fractional Knapsack Problem
     Greedy algorithm to find minimum number of coins
     Activity Selection (same as N meeting in one room)
+
+## Day 8
         Subset Sums
         Subset-II 
         Combination sum-1
