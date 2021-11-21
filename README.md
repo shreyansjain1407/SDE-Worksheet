@@ -52,7 +52,7 @@
 ## Day 6
     Clone a Linked List with random and next pointer
     3 sum
-        Trapping rainwater
+    Trapping rainwater
     Remove Duplicate from Sorted array
     Max consecutive ones
     N meeting in one room
