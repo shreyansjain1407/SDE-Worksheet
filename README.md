@@ -65,7 +65,7 @@
     Activity Selection (same as N meeting in one room)
 
 ## Day 8
-        Subset Sums
+    Subset Sums
         Subset-II 
         Combination sum-1
         Combination sum-2 
