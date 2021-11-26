@@ -26,11 +26,11 @@
 * Minimum Difference Between Highest and Lowest of K Scores (Extra Out of SDE Sheet)
 * * Reverse Pairs (Leetcode)
 * 2-Sum-Problem {Day 4}
-* * 4-sum-Problem
+* 4-sum-Problem
 * Longest Consecutive Sequence
 
 ### Day 4
-* Largest Subarray with 0 sum 
+* Largest Subarray with 0 sum
 * * Count number of subarrays with given Xor K
 * Longest Substring without repeat
 * Reverse a LinkedList
@@ -38,13 +38,13 @@
 * Merge two sorted Linked List (use merge Sort)
 * Remove N-th node from back of LinkedList
 * Add two numbers as LinkedList
-* * Delete a given Node when a node is given O(1) Soln
+* Delete a given Node when a node is given O(1) Soln
 
 ### Day 5
 * Find intersection point of Y LinkedList
 * Detect a cycle in Linked List
 * Reverse a LinkedList in groups of size k.
-* * Check if a LinkedList is palindrome or not.
+* Check if a LinkedList is palindrome or not.
 * Find the starting point of the Loop of LinkedList
 * Flattening of a LinkedList
 * Rotate a LinkedList

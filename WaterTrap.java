@@ -1,31 +1,26 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+class WaterTrap {
+    public int trap(int[] height) {
+        int total = 0, left = 0, right = height.length -1;
+        int leftBase = 0, rightBase = 0;
+        while(left < right){
+            while (height[left] <= rightBase && height[left] <= leftBase && left<right){
+                total += leftBase - height[left];
+                left++;
+            }
+            if(height[left] > leftBase){
+                leftBase = height[left];
+            }
+            while (height[right] <= leftBase && height[right] <= rightBase && right>left){
+                total += rightBase - height[right];
+                right--;
+            }
+            if (height[right] > rightBase){
+                rightBase = height[right];
+            }
+        }
+        return total;
+    }
+}
 
 //Attempt 1 50% Test Cases Cleared
 // class WaterTrap {
