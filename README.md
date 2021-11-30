@@ -69,5 +69,5 @@
 * Subset-II
 * Combination sum-1
 * * Combination sum-2
-* * Palindrome Partitioning
+* Palindrome Partitioning
 * * K-th permutation Sequence
