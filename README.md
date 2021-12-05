@@ -77,5 +77,5 @@
 * N queens Problem
 * Sudoku Solver
 * * M coloring Problem
-* * Rat in a Maze
-* * Word Break (print all ways)
+* Rat in a Maze
+* * Word Break (print all ways) (No Links Exist)
