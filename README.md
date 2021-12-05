@@ -73,9 +73,9 @@
 * K-th permutation Sequence
 
 ### Day 9
-* * Print all permutations of a string/array
-* * N queens Problem
-* * Sudoku Solver
+* Print all permutations of a string/array
+* N queens Problem
+* Sudoku Solver
 * * M coloring Problem
 * * Rat in a Maze
 * * Word Break (print all ways)
