@@ -79,3 +79,13 @@
 * * M coloring Problem
 * Rat in a Maze
 * * Word Break (print all ways) (No Links Exist)
+
+### Day 10
+* The N-th root of an integer
+* * Matrix Median
+* * Find the element that appears once in a sorted array, and the rest element appears twice (Binary search)
+* * Search element in a sorted and rotated array/ find pivot where it is rotated
+* * Median of 2 sorted arrays
+* * K-th element of two sorted arrays
+* * Allocate Minimum Number of Pages
+* * Aggressive Cows
