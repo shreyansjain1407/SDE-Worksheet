@@ -97,4 +97,4 @@
 * Implement Queue using Stack (0(1) amortized method)
 * Check for balanced parentheses
 * Next Greater Element
-* * Sort a Stack
+* Sort a Stack
