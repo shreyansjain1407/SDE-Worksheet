@@ -93,8 +93,8 @@
 ### Day 12
 * Implement Stack Using Arrays
 * * Implement Queue Using Arrays
-* * Implement Stack using Queue (using single queue)
-* * Implement Queue using Stack (0(1) amortized method)
-* * Check for balanced parentheses
-* * Next Greater Element
+* Implement Stack using Queue (using single queue)
+* Implement Queue using Stack (0(1) amortized method)
+* Check for balanced parentheses
+* Next Greater Element
 * * Sort a Stack
