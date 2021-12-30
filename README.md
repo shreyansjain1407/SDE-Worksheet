@@ -92,9 +92,21 @@
 
 ### Day 12
 * Implement Stack Using Arrays
-* * Implement Queue Using Arrays
+* Implement Queue Using Arrays
 * Implement Stack using Queue (using single queue)
 * Implement Queue using Stack (0(1) amortized method)
 * Check for balanced parentheses
 * Next Greater Element
 * Sort a Stack
+
+### 13
+* * Next Smaller Element
+* LRU cache (IMPORTANT)
+* * LFU Cache
+* * Largest rectangle in a histogram
+* * Sliding Window maximum
+* * Implement Min Stack
+* * Rotten Orange (Using BFS)
+* * Stock Span Problem
+* * Find the maximum of minimums of every window size
+* * The Celebrity Problem
