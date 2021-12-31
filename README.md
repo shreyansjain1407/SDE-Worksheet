@@ -102,8 +102,8 @@
 ### 13
 * * Next Smaller Element
 * LRU cache (IMPORTANT)
-* * LFU Cache
-* * Largest rectangle in a histogram
+* LFU Cache
+* Largest rectangle in a histogram (2 Approaches)
 * * Sliding Window maximum
 * * Implement Min Stack
 * * Rotten Orange (Using BFS)
