@@ -103,9 +103,9 @@
 * * Next Smaller Element
 * LRU cache (IMPORTANT)
 * LFU Cache
-* Largest rectangle in a histogram (2 Approaches)
+* Largest rectangle in a histogram (2 Approache)s
 * * Sliding Window maximum
-* * Implement Min Stack
+* Implement Min Stack
 * * Rotten Orange (Using BFS)
 * * Stock Span Problem
 * * Find the maximum of minimums of every window size
