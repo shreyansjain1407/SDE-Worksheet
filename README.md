@@ -96,7 +96,7 @@
 * Implement Stack using Queue (using single queue)
 * Implement Queue using Stack (0(1) amortized method)
 * Check for balanced parentheses
-* Next Greater Element
+* Next Greater Element (Multiple Approaches Complete)
 * Sort a Stack
 
 ### 13
@@ -110,3 +110,11 @@
 * * Stock Span Problem
 * * Find the maximum of minimums of every window size
 * * The Celebrity Problem
+
+### Day 14
+* Reverse Words in a String
+* Longest Palindrome in a string
+* * Roman Number to Integer and vice versa
+* * Implement ATOI/STRSTR
+* * Longest Common Prefix
+* * Rabin Karp
