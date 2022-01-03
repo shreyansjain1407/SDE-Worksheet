@@ -82,13 +82,13 @@
 
 ### Day 10
 * The N-th root of an integer
-* * Matrix Median
+<!-- * * Matrix Median
 * * Find the element that appears once in a sorted array, and the rest element appears twice (Binary search)
 * * Search element in a sorted and rotated array/ find pivot where it is rotated
 * * Median of 2 sorted arrays
 * * K-th element of two sorted arrays
 * * Allocate Minimum Number of Pages
-* * Aggressive Cows
+* * Aggressive Cows -->
 
 ### Day 12
 * Implement Stack Using Arrays
@@ -100,21 +100,21 @@
 * Sort a Stack
 
 ### 13
-* * Next Smaller Element
+<!-- * * Next Smaller Element -->
 * LRU cache (IMPORTANT)
 * LFU Cache
 * Largest rectangle in a histogram (2 Approache)s
-* * Sliding Window maximum
+<!-- * * Sliding Window maximum -->
 * Implement Min Stack
 * Rotten Orange (Using BFS)
 * Stock Span Problem
-* * Find the maximum of minimums of every window size
-* * The Celebrity Problem
+<!-- * * Find the maximum of minimums of every window size
+* * The Celebrity Problem -->
 
 ### Day 14
 * Reverse Words in a String
 * Longest Palindrome in a string
-* * Roman Number to Integer and vice versa
-* * Implement ATOI/STRSTR
-* * Longest Common Prefix
+* Roman Number to Integer and vice versa
+* Implement ATOI/STRSTR
+* Longest Common Prefix
 * * Rabin Karp
