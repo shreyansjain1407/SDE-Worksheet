@@ -99,7 +99,7 @@
 * Next Greater Element (Multiple Approaches Complete)
 * Sort a Stack
 
-### 13
+### Day 13
 <!-- * * Next Smaller Element -->
 * LRU cache (IMPORTANT)
 * LFU Cache
