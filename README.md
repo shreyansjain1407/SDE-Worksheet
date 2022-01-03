@@ -106,8 +106,8 @@
 * Largest rectangle in a histogram (2 Approache)s
 * * Sliding Window maximum
 * Implement Min Stack
-* * Rotten Orange (Using BFS)
-* * Stock Span Problem
+* Rotten Orange (Using BFS)
+* Stock Span Problem
 * * Find the maximum of minimums of every window size
 * * The Celebrity Problem
 
