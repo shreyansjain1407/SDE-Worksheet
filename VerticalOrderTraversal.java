@@ -22,7 +22,7 @@ class Tuple {
     }
 }
 
-class TopViewBinaryTree {
+class VerticalOrderTraversal {
     public List<List<Integer>> verticalTraversal(TreeNode root) {
         Map<Integer, PriorityQueue<Tuple>> map = new HashMap<>();
         Queue<Tuple> queue = new LinkedList<>();
