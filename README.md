@@ -118,3 +118,24 @@
 * Implement ATOI/STRSTR
 * Longest Common Prefix
 * * Rabin Karp
+
+### Day 15
+* Z-Function
+<!-- * * KMP algo / LPS(pi) array -->
+* Minimum characters needed to be inserted in the beginning to make it palindromic
+* Check for Anagrams
+* Count and Say
+* Compare version numbers
+
+### Day 16
+* Inorder Traversal
+* Preorder Traversal
+* Postorder Traversal
+* LeftView Of Binary Tree
+* Bottom View of Binary Tree
+* Top View of Binary Tree
+* * Preorder inorder postorder in a single traversal
+* * Vertical order traversal
+* * Root to node path in a Binary Tree
+* * Max width of a Binary Tree
+
