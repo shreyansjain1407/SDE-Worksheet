@@ -148,3 +148,12 @@
 * Check if two trees are identical or not
 * Zig Zag Traversal of Binary Tree
 * Boundary Traversal of Binary Tree
+
+### Day 18
+* Maximum path sum
+* * Construct Binary Tree from inorder and preorder
+* * Construct Binary Tree from Inorder and Postorder
+* * Symmetric Binary Tree
+* * Flatten Binary Tree to LinkedList
+* * Check if Binary Tree is the mirror of itself or not
+* * Check for Children Sum Property
