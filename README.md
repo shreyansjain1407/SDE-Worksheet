@@ -151,7 +151,7 @@
 
 ### Day 18
 * Maximum path sum
-* * Construct Binary Tree from inorder and preorder
+* Construct Binary Tree from inorder and preorder
 * * Construct Binary Tree from Inorder and Postorder
 * * Symmetric Binary Tree
 * * Flatten Binary Tree to LinkedList
