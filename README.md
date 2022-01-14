@@ -141,7 +141,7 @@
 
 ### Day 17
 * Level order Traversal / Level order traversal in spiral form
-* * Height of a Binary Tree
+* Height of a Binary Tree
 * * Diameter of Binary Tree
 * * Check if the Binary tree is height-balanced or not
 * * LCA in Binary Tree
