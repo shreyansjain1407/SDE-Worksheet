@@ -134,8 +134,8 @@
 * LeftView Of Binary Tree
 * Bottom View of Binary Tree
 * Top View of Binary Tree
-* * Preorder inorder postorder in a single traversal
-* * Vertical order traversal
+<!-- * * Preorder inorder postorder in a single traversal -->
+* Vertical order traversal
 * * Root to node path in a Binary Tree
-* * Max width of a Binary Tree
+* Max width of a Binary Tree
 
