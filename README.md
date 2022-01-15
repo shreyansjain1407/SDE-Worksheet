@@ -152,8 +152,12 @@
 ### Day 18
 * Maximum path sum
 * Construct Binary Tree from inorder and preorder
+* Count the number of Good nodes in a binary tree <Extra>
+* Sign of product of an array <Extra>
+* Min number of deletions for unique frequencies <Extra>
 * * Construct Binary Tree from Inorder and Postorder
 * * Symmetric Binary Tree
 * * Flatten Binary Tree to LinkedList
 * * Check if Binary Tree is the mirror of itself or not
 * * Check for Children Sum Property
+
