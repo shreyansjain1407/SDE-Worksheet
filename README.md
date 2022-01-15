@@ -170,3 +170,6 @@
 * Equal Elements of An Array <!-- REDO -->
 * Implement Tic Tac Toe
 * Find winner of Tic Tac Toe
+* Spiral Matrix
+* Cinema Seat Allocation <!-- Get back and check brute force solution for this -->
+<!-- * Have a look at LFU AND LRU Caches when possible -->
