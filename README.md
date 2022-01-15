@@ -152,16 +152,20 @@
 ### Day 18
 * Maximum path sum
 * Construct Binary Tree from inorder and preorder
-* Count the number of Good nodes in a binary tree <Extra>
-* Sign of product of an array <Extra>
-* Min number of deletions for unique frequencies <Extra>
-* N Unique integers sum to zero <Extra>
-* Distribute Coins in Binary Tree <Extra>
-<!-- * String Compression 2 //67/136 TestCases Extra> <Extra> REDO https://leetcode.com/problems/string-compression-ii/submissions/ -->
-* Angle between hands of clock <Extra>
 * * Construct Binary Tree from Inorder and Postorder
 * * Symmetric Binary Tree
 * * Flatten Binary Tree to LinkedList
 * * Check if Binary Tree is the mirror of itself or not
 * * Check for Children Sum Property
 
+## Extra Questions
+* Count the number of Good nodes in a binary tree <Extra>
+* Sign of product of an array <Extra>
+* Min number of deletions for unique frequencies <Extra>
+* N Unique integers sum to zero <Extra>
+* Distribute Coins in Binary Tree <Extra>
+<!-- * String Compression 2 //67/136 TestCases <Extra> REDO https://leetcode.com/problems/string-compression-ii/submissions/ -->
+* Angle between hands of clock <Extra>
+* Total number of islands <Extra>
+* Equal Elements of An Array <Extra> <!-- REDO -->
+* Implement Tic Tac Toe <Extra> 
