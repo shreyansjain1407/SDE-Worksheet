@@ -159,13 +159,14 @@
 * * Check for Children Sum Property
 
 ## Extra Questions
-* Count the number of Good nodes in a binary tree <Extra>
-* Sign of product of an array <Extra>
-* Min number of deletions for unique frequencies <Extra>
-* N Unique integers sum to zero <Extra>
-* Distribute Coins in Binary Tree <Extra>
-<!-- * String Compression 2 //67/136 TestCases <Extra> REDO https://leetcode.com/problems/string-compression-ii/submissions/ -->
-* Angle between hands of clock <Extra>
-* Total number of islands <Extra>
-* Equal Elements of An Array <Extra> <!-- REDO -->
-* Implement Tic Tac Toe <Extra> 
+* Count the number of Good nodes in a binary tree
+* Sign of product of an array
+* Min number of deletions for unique frequencies
+* N Unique integers sum to zero
+* Distribute Coins in Binary Tree
+<!-- * String Compression 2 //67/136 TestCases REDO https://leetcode.com/problems/string-compression-ii/submissions/ -->
+* Angle between hands of clock
+* Total number of islands
+* Equal Elements of An Array <!-- REDO -->
+* Implement Tic Tac Toe
+* Find winner of Tic Tac Toe
