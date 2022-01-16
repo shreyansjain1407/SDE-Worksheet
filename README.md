@@ -174,3 +174,6 @@
 * Cinema Seat Allocation <!-- Get back and check brute force solution for this -->
 <!-- * Have a look at LFU AND LRU Caches when possible -->
 * Make Rope Colorful
+* Split string into max unique strings
+* N-ary Tree Level Order Traversal
+* Unique paths
