@@ -179,3 +179,5 @@
 * Unique paths
 <!-- * Word Search 2 https://leetcode.com/problems/word-search-ii/ Do this when time is not an issue -->
 * Serialize and Deserialize Binary Tree
+* Number of Ways to Form a Target String Given a Dictionary
+* Max Frequency stack
