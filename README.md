@@ -142,7 +142,7 @@
 ### Day 17
 * Level order Traversal / Level order traversal in spiral form
 * Height of a Binary Tree
-<!-- * * Diameter of Binary Tree -->
+<!-- * * Diameter of Binary Tree (Very Easy Simple DFS) -->
 * Check if the Binary tree is height-balanced or not
 * LCA in Binary Tree
 * Check if two trees are identical or not
@@ -153,10 +153,20 @@
 * Maximum path sum
 * Construct Binary Tree from inorder and preorder
 * * Construct Binary Tree from Inorder and Postorder
-* * Symmetric Binary Tree
-* * Flatten Binary Tree to LinkedList
-* * Check if Binary Tree is the mirror of itself or not
-* * Check for Children Sum Property
+* Symmetric Binary Tree
+* Flatten Binary Tree to LinkedList
+* Check if Binary Tree is the mirror of itself or not
+<!-- * * Check for Children Sum Property Problem Link Broken -->
+
+### Day 19
+* Populate Next Right pointers of Tree
+* Search given Key in BST
+* * Construct BST from given keys
+* * Construct BST from preorder traversal
+* * Check is a BT is BST or not
+* * Find LCA of two nodes in BST
+* * Find the inorder predecessor/successor of a given Key in BST.
+
 
 ## Extra Questions
 * Count the number of Good nodes in a binary tree
@@ -181,3 +191,6 @@
 * Serialize and Deserialize Binary Tree
 * Number of Ways to Form a Target String Given a Dictionary
 * Max Frequency stack
+* Search in a rotated sorted array <!-- REDO -->
+* Inorder Successor of BST 2 <!-- REDO -->
+* Jump Game <!-- Backtracking time limit exceeded -> Memoization Correct -->
