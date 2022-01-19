@@ -161,11 +161,44 @@
 ### Day 19
 * Populate Next Right pointers of Tree
 * Search given Key in BST
-* * Construct BST from given keys
-* * Construct BST from preorder traversal
-* * Check is a BT is BST or not
-* * Find LCA of two nodes in BST
+* Construct BST from given keys
+* Construct BST from preorder traversal
+* Check is a BT is BST or not
+* Find LCA of two nodes in BST
 * * Find the inorder predecessor/successor of a given Key in BST.
+
+### Day 20
+* Floor in a BST
+* Ceil in a BST
+* Find K-th smallest element in BST
+* Find K-th largest element in BST
+* Find a pair with a given sum in BST
+* * BST iterator
+* * Size of the largest BST in a Binary Tree
+* * Serialize and deserialize Binary Tree
+
+<!-- ### Day 21
+* * Binary Tree to Double Linked List
+* * Find median in a stream of running integers.
+* * K-th largest element in a stream.
+* * Distinct numbers in Window.
+* * K-th largest element in an unsorted array.
+* * Flood-fill Algorithm -->
+
+### Day 22
+* Clone a graph
+* DFS
+* BFS
+* * Detect A cycle in Undirected Graph using BFS
+* * Detect A cycle in Undirected Graph using DFS
+* * Detect A cycle in a Directed Graph using DFS
+* * Detect A cycle in a Directed Graph using BFS
+* * Topological Sort BFS
+* * Topological Sort DFS
+* * Number of islands(Do in Grid and Graph Both)
+* * Bipartite Check using BFS
+* * Bipartite Check using DFS
+
 
 
 ## Extra Questions
