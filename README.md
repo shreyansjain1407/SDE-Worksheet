@@ -104,7 +104,7 @@
 * LRU cache (IMPORTANT)
 * LFU Cache
 * Largest rectangle in a histogram (2 Approache)s
-<!-- * * Sliding Window maximum -->
+* Sliding Window maximum <!-- Look at it once again -->
 * Implement Min Stack
 * Rotten Orange (Using BFS)
 * Stock Span Problem
@@ -195,8 +195,8 @@
 * * Detect A cycle in a Directed Graph using BFS
 * * Topological Sort BFS
 * * Topological Sort DFS
-* * Number of islands(Do in Grid and Graph Both)
-* * Bipartite Check using BFS
+* Number of islands(Do in Grid and Graph Both)
+* Bipartite Check using BFS
 * * Bipartite Check using DFS
 
 
@@ -226,4 +226,4 @@
 * Max Frequency stack
 * Search in a rotated sorted array <!-- REDO -->
 * Inorder Successor of BST 2 <!-- REDO -->
-* Jump Game <!-- Backtracking time limit exceeded -> Memoization Correct -->
+* Jump Game <!-- Backtracking time limit exceeded / Memoization Correct -->
