@@ -227,3 +227,8 @@
 * Search in a rotated sorted array <!-- REDO -->
 * Inorder Successor of BST 2 <!-- REDO -->
 * Jump Game <!-- Backtracking time limit exceeded / Memoization Correct -->
+* ZigZag String
+* Max waterfill container
+* Copy List With Random Pointer
+* Decode String
+* Letter combinations of a phone number
