@@ -241,3 +241,7 @@
 * Group Anagrams
 * Reorder Data in log files
 * Minimum rooms required for meeting
+* Maximize Distance to closest person 
+* Minimum Cost to connect sticks
+* Lease Number of Unique Integers after K removals
+* Shortest Path To Get Food
