@@ -245,3 +245,4 @@
 * Minimum Cost to connect sticks
 * Lease Number of Unique Integers after K removals
 * Shortest Path To Get Food
+* K Closest Points to Origin
