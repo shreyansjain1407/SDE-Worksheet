@@ -249,3 +249,5 @@
 * Check Course Prerequisites
 * Integer to Roman
 * Roman to Integer
+* Three Sum
+* LRU Cache Revision
