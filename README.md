@@ -256,3 +256,7 @@
 * Find Median of Stream <!-- Redo -->
 * Days for oranges to get rotten
 * Bellman Ford Algorithm
+* Dijkstra's Algorithm
+* Count Binary SubStrings
+* Total Number of Connections in a grid
+* Range Addition <!-- REDO https://leetcode.com/problems/range-addition/ -->
