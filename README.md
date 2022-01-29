@@ -261,3 +261,8 @@
 * Total Number of Connections in a grid
 * Range Addition <!-- REDO https://leetcode.com/problems/range-addition/ -->
 * Buildings With Ocean View
+* Valid Palindrome 2 <!-- REVISIT -->
+* Range Sum of BST <!-- NAIVE, REDO -->
+* Minimum Remove to Make valid parenthesis
+* Dot Product of Two Sparse Vectors
+* Lowest Common Ancestor of binary tree 3
