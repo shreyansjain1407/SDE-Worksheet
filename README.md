@@ -266,3 +266,6 @@
 * Minimum Remove to Make valid parenthesis
 * Dot Product of Two Sparse Vectors
 * Lowest Common Ancestor of binary tree 3
+* Continous Subarray with Sum K <!-- REDO LC 560 STUDY SOLUTION ONCE-->
+* Random Pick With Weight
+* Minimum Add to Make Parenthesis Valid
