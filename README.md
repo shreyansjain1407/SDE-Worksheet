@@ -269,3 +269,5 @@
 * Continous Subarray with Sum K <!-- REDO LC 560 STUDY SOLUTION ONCE-->
 * Random Pick With Weight
 * Minimum Add to Make Parenthesis Valid
+* Basic Calculator 2
+* Most Frequent K Unique Integers
