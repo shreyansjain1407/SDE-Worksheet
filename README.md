@@ -280,3 +280,6 @@
 * Maximum Swap <!-- REDO and REUNDERSTAND https://leetcode.com/problems/maximum-swap/ -->
 * Exclusive Time Of Functions <!-- STUDY AGAIN -->
 * Custom Sort String <!-- Revisit --> 
+* Accounts Merge <!-- LEETCODE TESTCASES ISSUE, FULLY FUNCTIONAL -->
+* Diameter of a Binary Tree
+* Expression Add Operator <!-- Does Not Satisfy BODMAS -->
