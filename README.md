@@ -276,3 +276,5 @@
 * Kth Largest Element In An Array <!-- QuickSelect Algorithm, REDO https://leetcode.com/problems/kth-largest-element-in-an-array -->
 * Making a Large Island
 * Right view of tree
+* Next Permutation <!-- Have a look at it again -->
+* Maximum Swap <!-- REDO and REUNDERSTAND https://leetcode.com/problems/maximum-swap/ -->
