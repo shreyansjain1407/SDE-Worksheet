@@ -273,3 +273,6 @@
 * Most Frequent K Unique Integers
 * Sum Root to leaf nodes
 * Binary Search Tree to Doubly Linked List
+* Kth Largest Element In An Array <!-- QuickSelect Algorithm, REDO https://leetcode.com/problems/kth-largest-element-in-an-array -->
+* Making a Large Island
+* Right view of tree
