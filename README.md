@@ -283,3 +283,6 @@
 * Accounts Merge <!-- LEETCODE TESTCASES ISSUE, FULLY FUNCTIONAL -->
 * Diameter of a Binary Tree
 * Expression Add Operator <!-- Does Not Satisfy BODMAS -->
+* Find Local Peak <!-- REDO using binary search -->
+* Shortest Path in Binary Matrix <!-- Some Random Error but else good -->
+* Remove Duplicates from String
