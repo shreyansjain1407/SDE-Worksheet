@@ -290,3 +290,5 @@
 * Trapping Rainwater
 * High 5 Averages
 * Consecutive Numbers Sum <!-- 150/170 TLE -->
+* Prefix Sum <!-- https://leetcode.com/problems/find-pivot-index/ REDO --> 
+* Kth Missing Positive Number <!-- Try again using binary search -->
