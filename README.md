@@ -286,3 +286,7 @@
 * Find Local Peak <!-- REDO using binary search -->
 * Shortest Path in Binary Matrix <!-- Some Random Error but else good -->
 * Remove Duplicates from String
+* Toeplitz Matrix
+* Trapping Rainwater
+* High 5 Averages
+* Consecutive Numbers Sum <!-- 150/170 TLE -->
