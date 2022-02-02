@@ -292,3 +292,5 @@
 * Consecutive Numbers Sum <!-- 150/170 TLE -->
 * Prefix Sum <!-- https://leetcode.com/problems/find-pivot-index/ REDO --> 
 * Kth Missing Positive Number <!-- Try again using binary search -->
+* Max Consecutive Ones 3 <!-- REDO Today -->
+* Number to English Words
