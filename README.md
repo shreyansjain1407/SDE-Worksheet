@@ -295,3 +295,6 @@
 * Max Consecutive Ones 3 <!-- REDO Today -->
 * Number to English Words
 * Add bold tag in string <!-- Invalid TC, 69/70 Exceptional Performance -->
+* Balance a binary search tree 
+* Walls and Gates
+* Construct Binary Tree from String
