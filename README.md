@@ -199,6 +199,26 @@
 * Bipartite Check using BFS
 * * Bipartite Check using DFS
 
+<!-- ### Day 23 Graph Part 2 -->
+### Day 24
+* * Max Product Subarray
+* * Longest Increasing Subsequence
+* * Longest Common Subsequence
+* * 0-1 Knapsack
+* * Edit Distance
+* * Maximum sum increasing subsequence
+* * Matrix Chain Multiplication
+
+### Day 25
+* * Maximum sum path in the matrix
+* * Coin change
+* * Subset Sum
+* * Rod Cutting
+* * Egg Dropping
+* * Word Break
+* * Palindrome Partitioning (MCM Variation)
+* * Maximum profit in Job scheduling
+
 
 
 ## Extra Questions
@@ -300,3 +320,5 @@
 * Construct Binary Tree from String
 * Random Pick Index
 * Find Largest Value in Each Tree Row
+* Robot Bounded in Circle
+* Minimum Moves To Equal Array Elements <!-- REDO Read question properly-->
