@@ -202,8 +202,8 @@
 <!-- ### Day 23 Graph Part 2 -->
 ### Day 24
 * * Max Product Subarray
-* * Longest Increasing Subsequence
-* * Longest Common Subsequence
+* Longest Increasing Subsequence
+* Longest Common Subsequence
 * * 0-1 Knapsack
 * * Edit Distance
 * * Maximum sum increasing subsequence
@@ -218,8 +218,6 @@
 * * Word Break
 * * Palindrome Partitioning (MCM Variation)
 * * Maximum profit in Job scheduling
-
-
 
 ## Extra Questions
 * Count the number of Good nodes in a binary tree
@@ -322,3 +320,4 @@
 * Find Largest Value in Each Tree Row
 * Robot Bounded in Circle
 * Minimum Moves To Equal Array Elements <!-- REDO Read question properly-->
+* Longest Common Subsequence
