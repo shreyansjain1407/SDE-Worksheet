@@ -323,3 +323,6 @@
 * Fraction Addition and Subtraction <!-- Partially Incomplete --> 
 * Remove All Adjacent Duplicates in String 2
 * Minimum Size Subarray Sum
+* Design Circular Queue
+* Top K Frequent Words
+* Find The Winner Of Circular Game
