@@ -333,12 +333,13 @@
 * Maximum Units On A Truck
 * Asteroid Collision
 * Reorganize String
+* Kill Processes
 
 <!-- Amazon Redos
 * Flip String to Monotone Increasing https://leetcode.com/problems/flip-string-to-monotone-increasing/
 * Minimum Swaps to group all 1's together LC 1151
 * Self Diminishing Valued Colored Balls REDO DAMN IT LC 1648
-
+* Sum of Subsequent Widths, Purely Mathematical LC 891
 
 
 
