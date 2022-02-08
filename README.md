@@ -341,6 +341,8 @@
 * Self Diminishing Valued Colored Balls REDO DAMN IT LC 1648
 * Sum of Subsequent Widths, Purely Mathematical LC 891
 * All Nodes distance k in binary tree LC 865, Good Question REDO
+* Pairs of song with total duration div 60 LC 1010, Noice
+
 
 
 
