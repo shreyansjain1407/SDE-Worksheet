@@ -177,13 +177,13 @@
 * * Size of the largest BST in a Binary Tree
 * * Serialize and deserialize Binary Tree
 
-<!-- ### Day 21
-* * Binary Tree to Double Linked List
-* * Find median in a stream of running integers.
+### Day 21
+* Binary Tree to Double Linked List
+<!-- * * Find median in a stream of running integers. REDO -->
 * * K-th largest element in a stream.
-* * Distinct numbers in Window.
-* * K-th largest element in an unsorted array.
-* * Flood-fill Algorithm -->
+* Distinct numbers in Window.
+* K-th largest element in an unsorted array.
+* * Flood-fill Algorithm
 
 ### Day 22
 * Clone a graph
@@ -331,12 +331,12 @@
 * Min Cost To Climb Stairs DP <!-- Redo -->
 * Search Suggestion System
 * Maximum Units On A Truck
-
+* Asteroid Collision
 
 <!-- Amazon Redos
 * Flip String to Monotone Increasing https://leetcode.com/problems/flip-string-to-monotone-increasing/
 * Minimum Swaps to group all 1's together LC 1151
-* Self Diminishing Valued Colored Balls REDO DAMN IT
+* Self Diminishing Valued Colored Balls REDO DAMN IT LC 1648
 
 
 
