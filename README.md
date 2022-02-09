@@ -334,6 +334,7 @@
 * Asteroid Collision
 * Reorganize String
 * Kill Processes
+* Randomized Set
 
 <!-- Amazon Redos
 * Flip String to Monotone Increasing https://leetcode.com/problems/flip-string-to-monotone-increasing/
@@ -342,7 +343,7 @@
 * Sum of Subsequent Widths, Purely Mathematical LC 891
 * All Nodes distance k in binary tree LC 865, Good Question REDO
 * Pairs of song with total duration div 60 LC 1010, Noice
-
+* Maximum number of events that can be attended LC 1353
 
 
 
