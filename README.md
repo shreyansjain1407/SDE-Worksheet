@@ -339,6 +339,9 @@
 * Count number of Nice Subarrays <!-- REDO LC 1248-->
 * Corporate Flight Bookings
 * House Robbers <!-- REDO https://leetcode.com/problems/house-robber/submissions/ DP-->
+* Create Tetris Figures on board
+* Minimum Number of Taps to open to water a garden
+* Brightest Position on Street <!-- Complete for now Try using two arrays -->
 
 <!-- Amazon Redos
 * Flip String to Monotone Increasing https://leetcode.com/problems/flip-string-to-monotone-increasing/
