@@ -342,6 +342,9 @@
 * Create Tetris Figures on board
 * Minimum Number of Taps to open to water a garden
 * Brightest Position on Street <!-- Complete for now Try using two arrays -->
+* Minimum Path Sum On Grid
+* Minimum Path in Triangle
+* Path Sum In Tree
 
 <!-- Amazon Redos
 * Flip String to Monotone Increasing https://leetcode.com/problems/flip-string-to-monotone-increasing/
