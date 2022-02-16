@@ -9,4 +9,5 @@
 * Most Common Word
 * Snakes and Ladders
 * Pairs of Songs Divisible by 60
-* Maximum Product of Splitted Binary Tree 
+* Maximum Product of Splitted Binary Tree
+* Longest Zig-Zag Path in Binary Tree
