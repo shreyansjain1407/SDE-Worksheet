@@ -13,3 +13,5 @@
 * Longest Zig-Zag Path in Binary Tree
 * Number of Distinct Islands
 * Trim Binary Search Tree <!-- REVISIT LC 669 https://leetcode.com/problems/trim-a-binary-search-tree/ -->
+* Decode Ways <!-- REDO LC 91 -->
+* Check if sentence is pangram
