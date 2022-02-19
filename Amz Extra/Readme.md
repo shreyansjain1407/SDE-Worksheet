@@ -18,3 +18,5 @@
 * Find Minimum In Rotated Sorted Array <!-- REDO LC 153 https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/ -->
 * Best time to buy and sell stock
 * K-Diff Pairs in an array <!-- REVISIT LC 532 -->
+* Max Stack
+* Design Hash Map
