@@ -20,3 +20,5 @@
 * K-Diff Pairs in an array <!-- REVISIT LC 532 -->
 * Max Stack
 * Design Hash Map
+* Search in sorted rotated array <!-- REDO -->
+* Word Search
