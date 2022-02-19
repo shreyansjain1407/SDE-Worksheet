@@ -1,6 +1,5 @@
 # Extra Questions
 
-### Day 1
 * Two Sum
 * String to 
 * 3 Sum Closest
@@ -16,3 +15,6 @@
 * Decode Ways <!-- REDO LC 91 -->
 * Check if sentence is pangram
 * Largest Number
+* Find Minimum In Rotated Sorted Array <!-- REDO LC 153 https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/ -->
+* Best time to buy and sell stock
+* K-Diff Pairs in an array <!-- REVISIT LC 532 -->
