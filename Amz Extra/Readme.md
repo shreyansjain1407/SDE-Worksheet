@@ -22,3 +22,7 @@
 * Design Hash Map
 * Search in sorted rotated array <!-- REDO -->
 * Word Search
+* Decode number of ways in a string
+* Number of Provinces
+* Alien Dictionary <!-- Revisit -->
+* Design Parking System
