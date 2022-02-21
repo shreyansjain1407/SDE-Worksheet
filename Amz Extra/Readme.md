@@ -26,3 +26,14 @@
 * Number of Provinces
 * Alien Dictionary <!-- Revisit -->
 * Design Parking System
+* Number of Lazer Beams in a bank
+* Max Twin Sum in a Linked List
+* Construct BST from Preorder traversal
+* User Website Visit Patterns 
+* Design HashSet
+* Get Elements from 2 BST
+* Insert Node Into a BST
+* Find Missing Ranges
+* Design Browser History
+* Count Square SubMatrices with All Ones
+* BattleShips On A Board
