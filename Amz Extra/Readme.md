@@ -39,3 +39,7 @@
 * BattleShips On A Board
 * Maximum Differences Between Node and Ancestors
 * Find All Anagrams of a string
+* Minimum Limit of Balls in Bag <!-- LC 1760 REDO, Binary Search -->
+* Find Distance In Binary Tree
+* Keys and Rooms
+* Smallest Subtree with all the Deepest Nodes
