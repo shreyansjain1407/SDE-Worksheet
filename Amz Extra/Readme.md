@@ -37,3 +37,5 @@
 * Design Browser History
 * Count Square SubMatrices with All Ones
 * BattleShips On A Board
+* Maximum Differences Between Node and Ancestors
+* Find All Anagrams of a string
