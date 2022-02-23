@@ -43,3 +43,9 @@
 * Find Distance In Binary Tree
 * Keys and Rooms
 * Smallest Subtree with all the Deepest Nodes
+* Design Hit Counter
+* Daily Temperatures
+* Snapshot Array
+* Remove Duplicates from Sorted List
+* Find The Celebrity
+* Closest Binary Search Tree Value
