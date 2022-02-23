@@ -49,3 +49,6 @@
 * Remove Duplicates from Sorted List
 * Find The Celebrity
 * Closest Binary Search Tree Value
+* Count Negative Numbers in Sorted Matrix
+* Power Of Three (2 Approaches)
+* 
