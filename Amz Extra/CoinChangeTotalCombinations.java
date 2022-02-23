@@ -1,5 +1,5 @@
 class CoinChangeTotalCombinations {
-    public int minCoins(int[] coins, int amount){
+    public int TotalCombinations(int[] coins, int amount){
         int[] dynamic = new int[amount+1];
         dynamic[0] = 1;
         for(int coin : coins){
@@ -12,6 +12,6 @@ class CoinChangeTotalCombinations {
         return dynamic[amount];
     }
     public static void main(String[] args) {
-        System.out.println(new Scratch().minCoins(new int[]{1,2,5}, 12));
+        System.out.println(new Scratch().TotalCombinations(new int[]{1,2,5}, 12));
     }
 }
