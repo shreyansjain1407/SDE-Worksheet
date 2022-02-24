@@ -54,4 +54,7 @@
 * Coin Change Total Combinations
 * Coind Change Min Coins Required
 * Longest Valid Parenthesis
-* 
+* Median of Two Sorted Arrays (Binary Search Method)
+* Fractional Addition and Subtraction
+* Counting Cars
+* Least Recently Used Cache
