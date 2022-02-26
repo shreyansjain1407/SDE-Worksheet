@@ -10,7 +10,7 @@ import java.util.*;
  * named Solution.
  *
  * If you need more classes, simply define them inline.
-
+*/
 
 
 class Solution {
@@ -18,7 +18,7 @@ class Solution {
     
   }
 }
-*/
+
 //c = LruCache(2)
 //c.put(1, 1) 1
 //c.put(2, 2) 2, 1
@@ -104,5 +104,4 @@ class DoublyLinkedList{
     current.prev.next = current.next;
     current.next.prev = current.prev;
   }
-  
 }
