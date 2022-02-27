@@ -61,4 +61,5 @@
 * Min Health For Completing All Rounds
 * Meeting Scheduler <!-- REDO LC 1229 -->
 * Max Consecutive Ones <!-- REDO LC 1004 -->
-* 
+<!-- A few easy questions, becasue why not -->
+* Build Array From Permutation
