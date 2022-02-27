@@ -63,3 +63,6 @@
 * Max Consecutive Ones <!-- REDO LC 1004 -->
 <!-- A few easy questions, becasue why not -->
 * Build Array From Permutation
+* Shuffle the Array
+* Number of Good Pairs
+* Jewels and Stones
