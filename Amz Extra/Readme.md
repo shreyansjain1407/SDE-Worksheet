@@ -67,3 +67,6 @@
 * Number of Good Pairs
 * Jewels and Stones
 * Cousins in a binary tree
+* Sum of Nodes with Even Valued Grandparent
+* Find all duplicates in an array
+* Remove all occurences of a substring <!-- REDO --> 
