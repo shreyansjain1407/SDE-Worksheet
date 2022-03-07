@@ -345,6 +345,8 @@
 * Minimum Path Sum On Grid
 * Minimum Path in Triangle
 * Path Sum In Tree
+* Minimum Falling Sum Path
+* Analyze User Website Visit Pattern
 
 <!-- Amazon Redos
 * Flip String to Monotone Increasing https://leetcode.com/problems/flip-string-to-monotone-increasing/
